@@ -1,0 +1,7 @@
+C:\Users\Dell\source\repos\PromotionEngine\bin\Debug\PromotionEngine.exe.config
+C:\Users\Dell\source\repos\PromotionEngine\bin\Debug\PromotionEngine.exe
+C:\Users\Dell\source\repos\PromotionEngine\bin\Debug\PromotionEngine.pdb
+C:\Users\Dell\source\repos\PromotionEngine\obj\Debug\PromotionEngine.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\PromotionEngine\obj\Debug\PromotionEngine.exe
+C:\Users\Dell\source\repos\PromotionEngine\obj\Debug\PromotionEngine.pdb
+C:\Users\Dell\source\repos\PromotionEngine\obj\Debug\PromotionEngine.csproj.AssemblyReference.cache
